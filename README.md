@@ -1,4 +1,4 @@
-# -On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM
+# On Site Additive Manufacturing Repair of Steel Bracket Using WAAM
 
 ### Sequential Thermal-Structural Simulation of Defect Restoration
 
